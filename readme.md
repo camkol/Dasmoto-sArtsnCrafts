@@ -4,7 +4,9 @@
 
 1. HTML
 2. CSS
+   -SASS
 
 ## Notes
 
--Improved Image for mobile
+-Improved responsiveness
+-Worked on images and made self-sufficient
